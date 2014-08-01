@@ -1,0 +1,17 @@
+{
+    "name": "brackets-elixir",
+    "title": "Brackets Elixir",
+    "description": "Code highlighting for Elixir in Brackets.",
+    "homepage": "https://github.com/novaugust/brackets-elixir",
+    "version": "0.0.1",
+    "author": "Matt Enlow (http://github.com/novaugust)",
+    "contributors": [
+        "BigBlueHat <byoung@bigbluehat.com> (http://bigbluehat.com/)",
+        "halohalospecial (http://github.com/halohalospecial/)"
+    ],
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "keywords": ["code", "highlight", "highlighting", "highlighter", "syntax", "elixir", ".ex", ".exs"]
+}
