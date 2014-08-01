@@ -4,6 +4,10 @@ Provides primitive highlighting for [Elixir](http://elixir-lang.org). It's at le
 
 This extension is nothing more than glue between [halohalospecial](https://github.com/halohalospecial)'s [codemirror-elixir-mode](https://github.com/halohalospecial/codemirror-elixir-mode) and [BigBlueHat](https://github.com/BigBlueHat)'s [brackets-langman](https://github.com/BigBlueHat/brackets-langman).
 
+## Contributing
+
+Want Brackets-Elixir improved? Me too! Feel free to open an issue or PR here on github.
+
 ## License
 
 [MIT](http://opensource.org/licenses/mit)
