@@ -1,17 +1,19 @@
 {
-    "name": "brackets-elixir",
-    "title": "Brackets Elixir",
-    "description": "Code highlighting for Elixir in Brackets.",
-    "homepage": "https://github.com/novaugust/brackets-elixir",
-    "version": "0.0.1",
-    "author": "Matt Enlow (http://github.com/novaugust)",
+    "name": "brackets-elixir-tools",
+    "title": "Brackets Elixir Tools",
+    "description": "Tooling and syntax highlighting for Elixir in Brackets. Includes integration of an Elixir REPL, Elixir autocompletion and inline documentation for Elixir modules and documents.",
+    "homepage": "https://github.com/Matthias247/brackets-elixir-tools",
+    "version": "0.1.0",
+    "author": "Matthias Einwag (http://github.com/Matthias247)",
     "contributors": [
+        "Matt Enlow (http://github.com/novaugust)",
         "BigBlueHat <byoung@bigbluehat.com> (http://bigbluehat.com/)",
         "halohalospecial (http://github.com/halohalospecial/)"
     ],
     "license": "MIT",
     "engines": {
-        "brackets": ">=0.24.0"
+        "brackets": ">=1.0.0"
     },
-    "keywords": ["code", "highlight", "highlighting", "highlighter", "syntax", "elixir", ".ex", ".exs"]
+    "keywords": ["code", "highlight", "highlighting", "highlighter", "syntax",
+      "elixir", ".ex", ".exs", "auto completion", "completion", "REPL"]
 }

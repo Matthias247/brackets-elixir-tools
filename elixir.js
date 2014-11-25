@@ -49,7 +49,7 @@ CodeMirror.defineMode("elixir", function(config) {
         "receive",
         "end",
     ]);
-        var atomWords = wordObj([
+    var atomWords = wordObj([
         "true",
         "false",
         "nil"
@@ -72,7 +72,7 @@ CodeMirror.defineMode("elixir", function(config) {
         "then",
         "->",
     ]);
-        var defineWords = wordObj([
+    var defineWords = wordObj([
         "def",
         "defdelegate",
         "defmacro",
