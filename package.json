@@ -1,6 +1,6 @@
 {
     "name": "brackets-elixir-tools",
-    "title": "Brackets Elixir Tools",
+    "title": "Elixir Tools",
     "description": "Tooling and syntax highlighting for Elixir in Brackets. Includes integration of an Elixir REPL, Elixir autocompletion and inline documentation for Elixir modules and documents.",
     "homepage": "https://github.com/Matthias247/brackets-elixir-tools",
     "version": "0.1.0",
