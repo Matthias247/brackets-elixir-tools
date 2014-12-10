@@ -1,4 +1,6 @@
-CodeMirror.defineMode("elixir", function(config) {
+var cm = brackets.getModule("thirdparty/CodeMirror2/lib/codemirror");
+
+cm.defineMode("elixir", function(config) {
     function wordObj(words) {
         var o = {};
         for (var i = 0, e = words.length; i < e; ++i) o[words[i]] = true;
@@ -356,4 +358,4 @@ CodeMirror.defineMode("elixir", function(config) {
     };
 });
 
-CodeMirror.defineMIME("text/x-elixir", "elixir");
+cm.defineMIME("text/x-elixir", "elixir");
